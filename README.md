@@ -1,8 +1,6 @@
 # Java Cucumber Integration test for the BetVictorWebSocket-challenge project
 
-This project with run some integration test for the following project:
-
-![](https://github.com/cicco94/BetVictorWebSocket-challenge)
+This project with run some integration test for the following project: [https://github.com/cicco94/BetVictorWebSocket-challenge](https://github.com/cicco94/BetVictorWebSocket-challenge)
 
 ## What you will run
 An integrationTest project which will uses this server for show logs like
